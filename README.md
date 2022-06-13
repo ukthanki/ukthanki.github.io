@@ -1,3 +1,4 @@
 # Umang's Projects
 ## MIT - Data Engineering
-[MIT - ETL, Analysis, and Visualization Project](https://ukthanki.github.io/MIT_ETL_Project/)
+[MIT - House Price Prediction Model, Project #1](https://ukthanki.github.io/MIT_House_Price_Prediction_Project/)
+[MIT - ETL, Analysis, and Visualization, Project #2](https://ukthanki.github.io/MIT_ETL_Project/)
