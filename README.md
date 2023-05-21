@@ -10,4 +10,4 @@
 
 [MIT - Sensemaking Data Pipeline, Project #5](https://ukthanki.github.io/MIT_Sensemaking_Data_Pipeline_Project/)<br> 
 
-[MIT - Streaming Data, Project #6](https://ukthanki.github.io/MIT_Streaming_Data/)<br> 
+[MIT - Streaming Data, Project #6](https://ukthanki.github.io/MIT_Streaming_Data_Project/)<br> 
