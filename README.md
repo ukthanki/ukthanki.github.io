@@ -6,4 +6,4 @@
 
 [MIT - Books Web Application, Project #3](https://ukthanki.github.io/MIT_Books_Web_Application_Project/)<br> 
 
-[MIT - Transit Data Application, Project #4](https://github.com/ukthanki/MIT_Transit_Data_Application/)<br> 
+[MIT - Transit Data Application, Project #4](https://ukthanki.github.io/MIT_Transit_Data_Application/)<br> 
