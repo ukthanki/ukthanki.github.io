@@ -1,5 +1,5 @@
 # Umang's Projects
-## MIT - Data Engineering
+## MIT Data Engineering Professional Certification
 [MIT - House Price Prediction Model, Project #1](https://ukthanki.github.io/MIT_House_Price_Prediction_Project/)<br>  
 
 [MIT - ETL, Analysis, and Visualization, Project #2](https://ukthanki.github.io/MIT_ETL_Project/)<br> 
