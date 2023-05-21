@@ -8,4 +8,4 @@
 
 [MIT - Transit Data Application, Project #4](https://ukthanki.github.io/MIT_Transit_Data_Application/)<br> 
 
-[MIT - Sensemaking Data Pipeline, Project #5](https://ukthanki.github.io/MIT_Transit_Data_Application/)<br> 
+[MIT - Sensemaking Data Pipeline, Project #5](https://ukthanki.github.io/MIT_Sensemaking_Data_Pipeline_Project/)<br> 
