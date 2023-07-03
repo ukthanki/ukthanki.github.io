@@ -1,4 +1,4 @@
-# Umang's Certification Projects
+# Certification Projects
 
 ## MIT Data Engineering Professional Certification
 [House Price Prediction Model](https://ukthanki.github.io/MIT_House_Price_Prediction_Project/)<br>  
@@ -14,7 +14,7 @@
 [MIT - Streaming Data, Project #6](https://ukthanki.github.io/MIT_Streaming_Data_Project/)<br> 
 
 
-# Umang's Personal Projects
+# Personal Projects
 
 
-# Umang's Learning
+# Learning
