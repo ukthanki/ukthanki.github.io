@@ -1,3 +1,5 @@
+# Projects and Work
+
 ## Certification Projects
 
 ### MIT Data Engineering Professional Certification
