@@ -1,6 +1,6 @@
 # Projects and Work
 
-## Certification Projects
+## *Certification Projects*
 
 ### MIT Data Engineering Professional Certification
 [About the Program](https://executive-ed.xpro.mit.edu/professional-certificate-data-engineering)<br>
@@ -14,7 +14,7 @@
 [Sensemaking Data Pipeline](https://ukthanki.github.io/MIT_Sensemaking_Data_Pipeline_Project/)<br>
 [Streaming Data](https://ukthanki.github.io/MIT_Streaming_Data_Project/)<br>
 
-## Personal Projects
+## *Personal Projects*
 
 
-## Learning
+## *Learning*
