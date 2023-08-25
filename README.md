@@ -9,7 +9,7 @@
 
 [House Price Prediction Model](https://ukthanki.github.io/MIT_House_Price_Prediction_Project/)<br> 
 [Monthly Retail Trade Survey ETL](https://ukthanki.github.io/MIT_MRTS_ETL/)<br>
-[Books Web Application](https://ukthanki.github.io/MIT_Books_Web_Application_Project/)<br>
+[Books Web Application](https://ukthanki.github.io/MIT_Books_Web_Application/)<br>
 [Transit Data Application](https://ukthanki.github.io/MIT_Transit_Data_Application_Project/)<br>
 [Sensemaking Data Pipeline](https://ukthanki.github.io/MIT_Sensemaking_Data_Pipeline_Project/)<br>
 [Streaming Data](https://ukthanki.github.io/MIT_Streaming_Data_Project/)<br>
